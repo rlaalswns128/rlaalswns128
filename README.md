@@ -1,75 +1,103 @@
-# 👋 Hello, World! I'm Minjune Kim! 🌟
+# 🚀 Minjune Kim - Developer in the Making 🌟
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/your-link-here/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?logo=github)](https://www.your-portfolio-link.com)
-
-## 🚀 About Me
-Hi there! I'm **Minjune**, a budding developer with a diverse background, a love for coding, and a cheerful, optimistic personality! After years of exploration in different fields, I've found my passion for **server engineering** and the joy of solving problems through code.
-
-### ✨ Fun Facts About Me:
-- 🌏 I studied in **Singapore** for 6 years and pursued **university management studies** in **Australia**.
-- 🛠️ I’ve had unique experiences, from working at **Hilton Hotels** to a **Michelin 1-star restaurant**.
-- 🚀 Served in Korea's **Air Force** on the serene island of **Ulleungdo** as a driver.
-- 💻 Fell in love with development and decided to pursue a career in **tech**.
-- 🗣️ Taught English and worked in marketing, bringing my sociable and versatile nature to every job.
-- 🎨 I’m not just about code! I have many **hobbies** and love staying active and creative.
+👋 Select Your Language:  
+[English](#english) | [한국어](#한국어)  
 
 ---
 
-## 💻 Tech Stack
-Here’s what I’m working with these days:
+## 📝 English Version <a name="english"></a>
 
-### Languages & Frameworks:
-- **Frontend**: React, Bootstrap
-- **Backend**: Spring Boot, Flask, Node.js
-- **Database**: MongoDB
-- **Others**: Java (17), JSP, DTO design for data handling
+### 🌟 About Me
+Hi, I’m **Minjune Kim**, an aspiring **server engineer** with a diverse background and a passion for solving real-world problems through technology. My journey has been dynamic, filled with global experiences and a growing love for coding.
 
-### Tools & Platforms:
-- **IDE**: Spring Tool Suite (STS)
-- **Project Management**: Gradle
-- **Version Control**: Git/GitHub
+- 🌏 Studied in Singapore and Australia, gaining a global perspective.  
+- 💼 Worked in industries like hospitality, marketing, and education before diving into tech.  
+- 💻 Passionate about building reliable, scalable systems and contributing to impactful projects.  
 
 ---
 
-## 🌟 Projects
-
-### 🥗 Health Supplements Recommender
-A project aimed at classifying and recommending health products using big data from public APIs.  
-- **Tech Stack**: Flask, Spring Boot, JSP, MongoDB  
-- **Key Features**: Search products by name/classification, comment & star rating system, integration with GPT for data classification.
-
-### 🔎 IT Product Search Engine
-A tailored search engine for IT & office products, fetching and filtering results from Google, YouTube, and Instagram.  
-- **Tech Stack**: React, Flask  
-- **Key Features**: Region-specific filters, result rankings by engagement metrics, sleek frontend.
+### 💻 Tech Stack
+- **Backend**: Spring Boot, Flask  
+- **Frontend**: React, Bootstrap  
+- **Database**: MongoDB  
+- **Languages**: Java (17), JavaScript  
 
 ---
 
-## 🧠 My Journey
+### 📌 Key Projects
+#### 🥗 Health Supplements Recommender  
+- Recommends health products using big data and GPT-based analysis.  
+- Features: Search by product name or category, user reviews and ratings, MongoDB integration.  
 
-### 🌏 Studying Abroad
-I spent years exploring the world and gaining diverse experiences:  
-- **Singapore**: Built my foundational education.  
-- **Australia**: Dived into university life, working part-time at exciting places.  
-
-### ✈️ Back to Korea
-After serving in the **Air Force**, I explored various careers:  
-- Barista 🧋 | Mobile broadcasting operator 🎥 | Marketing specialist 📈 | English instructor 🗣️  
-
-### 💻 Embracing Development
-Returning to school was a turning point, and I discovered the joy of **coding**. Today, I’m passionate about creating impactful tech solutions and preparing to become a **server engineer**.
+#### 🔎 IT Product Search Engine  
+- Tailored search engine for IT products using data from Google, YouTube, and Instagram.  
+- Region-specific filtering with engagement-based ranking.  
 
 ---
 
-## 🎯 My Goals
-- Build innovative and reliable server systems.  
-- Contribute to meaningful projects that make lives better.  
-- Grow as a developer while continuing to explore the tech landscape.
+### 🌟 My Strengths
+- **Global Experience**: A unique perspective from living and working in different countries.  
+- **Persistence and Passion**: Always eager to tackle challenges and master new skills.  
+- **Teamwork**: A positive and collaborative mindset that energizes any team.  
 
 ---
 
-## 🌐 Let's Connect!
-- **Email**: your-email@example.com  
-- **Portfolio**: [Visit Here](https://www.your-portfolio-link.com)  
-- **LinkedIn**: [Connect Here](https://www.linkedin.com/in/your-link-here/)  
+### 🎯 Goals
+- To grow as a **server engineer** and build systems that make a difference.  
+- To stay curious and learn cutting-edge technologies.  
+- To deliver meaningful solutions through impactful projects.  
+
+---
+
+### 🌐 Let's Connect!
+[Portfolio](https://www.your-portfolio-link.com) | [LinkedIn](https://www.linkedin.com/in/your-link-here/) | your-email@example.com  
+
+---
+
+## 📝 한국어 버전 <a name="한국어"></a>
+
+### 🌟 소개
+안녕하세요! 저는 **서버 엔지니어**를 꿈꾸는 김민준입니다.  
+다양한 경험 속에서 현실적인 문제를 해결하는 개발의 매력에 빠졌고, 이제는 성장과 변화를 위해 달려가고 있어요.
+
+- 🌏 싱가포르와 호주에서 공부하며 글로벌한 관점을 얻었습니다.  
+- 💼 호텔, 마케팅, 교육 등 다양한 분야에서 경험을 쌓은 후 개발에 도전했어요.  
+- 💻 안정적이고 확장 가능한 시스템을 만드는 데 열정을 가지고 있습니다.  
+
+---
+
+### 💻 기술 스택
+- **백엔드**: Spring Boot, Flask  
+- **프론트엔드**: React, Bootstrap  
+- **데이터베이스**: MongoDB  
+- **언어**: Java (17), JavaScript  
+
+---
+
+### 📌 주요 프로젝트
+#### 🥗 건강 보조제 추천 시스템  
+- GPT와 빅데이터를 활용하여 건강 제품을 추천합니다.  
+- 기능: 제품명/분류명 검색, 사용자 리뷰 및 평점, MongoDB 연동.  
+
+#### 🔎 IT 제품 검색 엔진  
+- Google, YouTube, Instagram 데이터를 활용한 맞춤형 IT 제품 검색.  
+- 지역별 필터링과 참여 기반 순위 매기기.  
+
+---
+
+### 🌟 강점
+- **글로벌 경험**: 다양한 국가에서 얻은 폭넓은 관점.  
+- **끈기와 열정**: 새로운 기술을 배우고 문제를 해결하는 데 즐거움을 느낍니다.  
+- **팀워크**: 긍정적이고 협력적인 성격으로 팀에 활기를 불어넣습니다.  
+
+---
+
+### 🎯 목표
+- **서버 엔지니어**로 성장하여 안정적이고 확장 가능한 시스템을 구축하고 싶습니다.  
+- **새로운 기술**을 지속적으로 배우고 빠르게 적응합니다.  
+- **의미 있는 프로젝트**를 통해 사용자들에게 가치를 전달합니다.  
+
+---
+
+### 🌐 연결하기
+[포트폴리오](https://www.your-portfolio-link.com) | [LinkedIn](https://www.linkedin.com/in/your-link-here/) | your-email@example.com
