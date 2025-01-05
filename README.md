@@ -1,4 +1,4 @@
-# 🚀 Minjune Kim - Developer in the Making 🌟
+# 🚀 Minjune Kim - Developer connects adaptability and innovation.” 🌟
 
 👋 Select Your Language:  
 [English](#english) | [한국어](#한국어)  
@@ -11,7 +11,7 @@
 Hi, I’m **Minjune Kim**, an aspiring **server engineer** with a diverse background and a passion for solving real-world problems through technology. My journey has been dynamic, filled with global experiences and a growing love for coding.
 
 - 🌏 Studied in Singapore and Australia, gaining a global perspective.  
-- 💼 Worked in industries like hospitality, marketing, and education before diving into tech.  
+- 💼 Worked in industries like IT tech, marketing, media broadcasting, hospitality, and education.
 - 💻 Passionate about building reliable, scalable systems and contributing to impactful projects.  
 
 ---
@@ -19,14 +19,14 @@ Hi, I’m **Minjune Kim**, an aspiring **server engineer** with a diverse backgr
 ### 💻 Tech Stack
 - **Backend**: Spring Boot, Flask  
 - **Frontend**: React, Bootstrap  
-- **Database**: MongoDB  
-- **Languages**: Java (17), JavaScript  
+- **Database**: MySQL, MongoDB  
+- **Languages**: Java (17), Python, JavaScript  
 
 ---
 
 ### 📌 Key Projects
-#### 🥗 Health Supplements Recommender  
-- Recommends health products using big data and GPT-based analysis.  
+#### 🥗 Pill Yo-Ham  
+- Recommends Korean health products using big data and GPT-based analysis.  
 - Features: Search by product name or category, user reviews and ratings, MongoDB integration.  
 
 #### 🔎 IT Product Search Engine  
@@ -50,7 +50,7 @@ Hi, I’m **Minjune Kim**, an aspiring **server engineer** with a diverse backgr
 ---
 
 ### 🌐 Let's Connect!
-[Portfolio](https://www.your-portfolio-link.com) | [LinkedIn](https://www.linkedin.com/in/your-link-here/) | your-email@example.com  
+[Portfolio](https://www.rlaalswns128.github.io) | [LinkedIn](https://www.linkedin.com/in/your-link-here/) | joonykim0213@gmail.com  
 
 ---
 
@@ -58,10 +58,10 @@ Hi, I’m **Minjune Kim**, an aspiring **server engineer** with a diverse backgr
 
 ### 🌟 소개
 안녕하세요! 저는 **서버 엔지니어**를 꿈꾸는 김민준입니다.  
-다양한 경험 속에서 현실적인 문제를 해결하는 개발의 매력에 빠졌고, 이제는 성장과 변화를 위해 달려가고 있어요.
+다양한 경험 속에서 현실적인 문제를 해결할 수 있는 개발의 매력에 빠지게 되었고, 이제는 성장과 변화를 위해 달려가고 있습니다.
 
-- 🌏 싱가포르와 호주에서 공부하며 글로벌한 관점을 얻었습니다.  
-- 💼 호텔, 마케팅, 교육 등 다양한 분야에서 경험을 쌓은 후 개발에 도전했어요.  
+- 🌏 싱가포르와 호주에서 공부하며 영어 구사력과 글로벌한 시야를 얻었습니다.  
+- 💼 IT 스타트업, 호텔, 마케팅, 교육 등 다양한 분야에서 경험을 쌓은 후 개발에 도전하고자 합니다.  
 - 💻 안정적이고 확장 가능한 시스템을 만드는 데 열정을 가지고 있습니다.  
 
 ---
@@ -69,13 +69,13 @@ Hi, I’m **Minjune Kim**, an aspiring **server engineer** with a diverse backgr
 ### 💻 기술 스택
 - **백엔드**: Spring Boot, Flask  
 - **프론트엔드**: React, Bootstrap  
-- **데이터베이스**: MongoDB  
+- **데이터베이스**: MySQL, MongoDB  
 - **언어**: Java (17), JavaScript  
 
 ---
 
 ### 📌 주요 프로젝트
-#### 🥗 건강 보조제 추천 시스템  
+#### 🥗 Pill요합
 - GPT와 빅데이터를 활용하여 건강 제품을 추천합니다.  
 - 기능: 제품명/분류명 검색, 사용자 리뷰 및 평점, MongoDB 연동.  
 
@@ -100,4 +100,4 @@ Hi, I’m **Minjune Kim**, an aspiring **server engineer** with a diverse backgr
 ---
 
 ### 🌐 연결하기
-[포트폴리오](https://www.your-portfolio-link.com) | [LinkedIn](https://www.linkedin.com/in/your-link-here/) | your-email@example.com
+[Portfolio](https://www.rlaalswns128.github.io) | [LinkedIn](https://www.linkedin.com/in/your-link-here/) | joonykim0213@gmail.com  
