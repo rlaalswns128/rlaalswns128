@@ -1,4 +1,4 @@
-# 🚀 Minjune Kim - Developer connects adaptability and innovation.” 🌟
+# 🚀 Minjune Kim - Developer connects adaptability and innovation. 🌟
 
 👋 Select Your Language:  
 [English](#english) | [한국어](#한국어)  
