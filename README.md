@@ -50,7 +50,7 @@ Hi, I’m **Minjune Kim**, an aspiring **server engineer** with a diverse backgr
 ---
 
 ### 🌐 Let's Connect!
-[Portfolio]([https://www.rlaalswns128.github.io](https://rlaalswns128.github.io)) | [LinkedIn](https://www.linkedin.com/in/your-link-here/) | joonykim0213@gmail.com  
+[Portfolio](https://rlaalswns128.github.io)) | [LinkedIn](https://www.linkedin.com/in/your-link-here/) | joonykim0213@gmail.com  
 
 ---
 
